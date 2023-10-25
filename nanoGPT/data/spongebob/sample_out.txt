@@ -1,0 +1,461 @@
+(.venv) pmi@A-9LHYST3:~/dev/tiny-lm/nanoGPT$ python sample.py --out_dir=out-spongebob
+Overriding: out_dir = out-spongebob
+number of parameters: 10.66M
+Loading meta from data/spongebob/meta.pkl...
+
+
+[squeaking]
+
+[giggling]
+
+Oh, not again, huh?
+
+[screaming]
+
+I won't be under the way.
+
+Listen, here comes.
+
+But Patrick, I want to be a real day!
+
+Where did you get that?
+
+So what?
+
+Sorry bad saying some kind
+of sausage skulls.
+
+[laughing]
+
+There you are, bad that?
+
+The only find that was easy.
+
+Come on, the sweet invited
+the king's the most cake.
+
+Where are
+you now?
+
+That that's not me.
+
+Where does it mean?
+
+But there we go?
+
+Let's go give
+the Krusty Krab Is.
+
+That's okay.
+
+You're my vacation.
+
+---------------
+
+
+Oh, no, no, no.
+
+It's all you, boy.
+
+Boots.
+
+Ow! What is it?
+
+No! I got an exact more book
+and this help.
+
+What's the boots?
+
+You think it must have
+a meaning time.
+
+[ pickles weakly]
+
+[ gasps]
+
+[ crash]
+
+Boo!
+
+Booboobooboobooboobooboop...
+
+[ singing]
+
+[ straining]
+
+That's it.
+
+Oh, boo! Oh, door!
+
+What's the time for you?
+
+I guess I guess I'm starving
+a healthygien surprise...
+
+[ laughing excitedly]
+
+That's exactly the surprise.
+
+Oh, that was a great surprise.
+
+Mr. SquarePants!
+
+And there's no
+---------------
+
+
+Drust instructor
+your pockstation.
+
+Now what's with you?
+
+Krusty Krab is right
+and stop home back
+
+at the Krusty Krab's family
+of my eyes.
+
+Mr. Krabs, I don't know what
+I wanted to do with that?
+
+Uh...
+
+Hello?
+
+What is it?
+
+What's that?
+
+We'll be a fresh idea
+from the deep of the wild.
+
+There's no more than fancy things.
+
+Do you have any stupid register?
+
+[ both laughing with puffs]
+
+[ joines laugh]
+
+Hey, kids?
+
+Hey, why have you been
+a fresh box?
+
+Oh, I wanted to have
+for a box.
+
+Hey, what is
+
+---------------
+
+Oh, am I almost you quit?
+
+But it's the first time's
+invented with a bull time.
+
+No, no, no, no, no,
+no, no, no, no!
+
+Thank you, boy.
+
+She's good.
+
+But I'm good.
+
+I always all could
+give you the Krusty Krab.
+
+Do you want to understand?
+
+We're a good sponge your time.
+
+I've got
+to give my eyeballs.
+
+A yellow dumb with here.
+
+I promise your too microphy.
+
+I'm worried to the Krusty Krab.
+
+I'll run of the straight
+to move of the memories.
+
+The straighter of starfish.
+
+That stupid reminds every is ev
+---------------
+
+He's going to be
+room to get home.
+
+This thing's great!
+
+What are you doing here?
+
+What?! I think
+I can say anything
+before you were completeles.
+
+Oh, you know.
+
+SpongeBob and proud the suspare
+
+than a lightbulb wear.
+
+Well, what can we do that?
+
+I was just like your handing cheaters
+and then it's time for the wall,
+
+it's the wallet laughbox
+for some nowhere with anyway.
+
+What could the moon?
+
+What do you think he may be.
+
+[ screams]
+
+When is it, Patrick?
+
+Ready to meet
+voice of any of your stup
+---------------
+
+
+PRETENDON ME.
+
+I'VE ALREADY FOR YOU.
+
+PRETTY ME TO WEAR.
+
+I'M NOT READY.
+
+I'M NOT READY, I'M NOT READY.
+
+NOT FOR THE DAY,
+I DON'T KNOW THAT WILL BE ON
+THIS PATTY FOR ME HERO.
+
+NOW JUST MAKE ME TOMORROW IT
+POSSIBLY BEFORE TODAY.
+
+WHAT COULD I DO?
+
+IT'S GOT MY BEST FRIENDS.
+
+HEY, WHAT'S THAT?
+
+HEY, CHEER UP, TAKE MY TEXERS.
+
+SURE.
+
+SURE, SQUIDWARD,
+YOU'RE NOT GOING TO GET MY BEST FRIEND.
+
+I DON'T KNOW.
+
+I'M TRYING TO WORRY.
+
+I'LL SEE YOU TOUCH
+THIS TIME BEARNACLE STANLEY.
+
+YEAH, THE POINT OF SHER
+---------------
+
+Are you ready
+to be a crabby Patty?
+
+Nobody can I just say
+you to make me
+
+this time to
+be camping "crabby Patties" down.
+
+Now, you're not going to do
+is go back
+to look like me.
+
+Time to my present
+in my ship
+
+and your laughs wild.
+
+[ honking, squeaking]
+
+The piece of the magical everyone
+for that can help.
+
+I think something sort as you will
+like to disasponable at work.
+
+Hello?
+
+Money! [ grunting loudly]
+
+You've got to be
+a license pineapple with him!
+
+[ both laughing]
+
+[ gasping]
+
+[ panting]
+---------------
+
+WHAT'S THAT?
+
+THE HEAD THAT DOES WEAR?
+
+[GRUNTS]
+
+WHOA... WHOA...
+
+[GRUNTS]
+
+[SCREAMS]
+
+WHOA... WHOA...
+
+[LAUGHING WILDLY]
+
+[SCREAMING]
+
+HOW'S WHAT, BOYS?
+
+I WON'T LET YOU TWO HOW THAT.
+
+[SLURPS]
+
+COULD YOU TWO COST YOU LIKE
+A STUDENT RED.
+
+HUH, NOW, I CAN'T LET YOU BACK
+ON OUR FEET POLICE WORN AND THING.
+[SCREAMS]
+
+OK, OK, OK, OK, THIS.
+
+[BABY LAUGHING]
+
+[TIRES SQUEAL]
+
+THAT'S THE POLICE.
+
+[SCREAMING]
+
+[PANTING]
+
+[LAUGHING]
+
+WHERE COULD YOU TWO
+KIND OF MY PATTIES?
+
+ANYTHING, NO!
+
+I'M NOT THINKI
+---------------
+
+
+[ screaming]
+
+Oh!
+
+Dare!
+
+What are you talking about?
+
+Uh, SpongeBob
+
+you're all
+alone of here.
+
+Maybe I need
+to get my life.
+
+I'm a horrible work.
+
+Oh, maybe it's
+a little great anyway.
+
+I've got to get out here.
+
+Yeah.
+
+[ screams]
+
+Barnacles...
+
+SpongeBob,
+
+there's the greatest fry cooking
+
+I will stay her
+to worry.
+
+I love that won't spend
+
+with culings
+out one.
+
+[ all laugh]
+
+Where'd he doesn't get this pAtties?
+
+Sure, dude, I love it the meant.
+
+Okay,
+here we go of.
+
+That's what you are, S
+---------------
+
+All right,
+allow me at
+the Krabby Patty.
+
+No, I'm going
+to make him
+a mison around here.
+
+Well, I shouldn't.
+
+Well, if that may go
+to be late.
+
+But it's just all alone mater,
+so I can see.
+
+I can't let you see him
+a roof later
+
+and what in here we call
+that smell visitor.
+
+Wow, you'll never want
+to do the secret
+
+just demonstrous.
+
+I can't take it!
+
+Okay.
+
+[ snoring]
+
+Great.
+
+Okay.
+
+[ snoring]
+
+SpongeBob.
+
+Hey, Squidward.
+
+Maybe it's time for the car.
+
+I can't believe
+in the chantenter
