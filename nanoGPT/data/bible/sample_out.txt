@@ -1,0 +1,67 @@
+Overriding: out_dir = out-bible-char
+number of parameters: 10.65M
+Loading meta from data/bible/meta.pkl...
+
+Numbers 24:25   and those that were numbered of them, were threescore and four thousand.
+Numbers 24:26   And the sons of Merari; Obed, and Imri, and Eliezer, and Jarim, and Eliezer, and Malchijah, and Achbon, and all the cattle of Israel;
+Numbers 24:27   and Manasseh went about the camp of Ephraim out of Aram, and placed the captains of hundreds, and the hands of Manasseh went out to meet the camp against the Levites.
+Numbers 24:28   And the third lot was for the camp of Benjamin, and to the captain of
+---------------
+
+Deuteronomy 2:5 And it shall come to pass in the seventh year, that the LORD thy God shall be with thee unto the LORD all the words which he sware unto thee to be done.
+Deuteronomy 2:6 But if the seven days shall still there be before thee, and he shall surely be thy God in thee:
+Deuteronomy 2:7 and the LORD shall set thee over all the tribes of the children of Israel, and over all the tribes of the children of Israel, over all that I commanded thee this day and their sons that drive them out of
+---------------
+
+Deuteronomy 21:20       the sons of Israel, David the son of Jesse; Hear thou thy word through the midst of the covenant, that thou shouldest break down this house of the LORD.
+Deuteronomy 21:21       And the LORD said unto me, I will execute judgment unto thee, I will not forsake; for I am come into thine house, nor spoil thy neighbour, and speak unto the LORD.
+Deuteronomy 21:22       And the LORD spake so unto me, saying,
+Deuteronomy 21:23       Speak unto thee a people unto the LORD, and to the people that seek thee
+---------------
+
+Psalm 119:118   But behold, I will make the streets of righteousness with the lion of the hills which I called before you;
+Psalm 119:129   I will destroy thee from being as a shewbreaking dust; and I will establish thee from the way of the wilderness and fro the river; and I will defend thee for ever.
+Psalm 119:130   The wicked of the wicked curseth gladness, and for ever.
+Psalm 119:141   The lip of the LORD is established from everlasting wind; and all the feet of the fruit of the wicked:
+Psalm 119:152
+---------------
+
+Genesis 24:30   And the sons of Kedar and Abiathar; Esau begat Esau;
+Genesis 24:31   and Ur, and Eliab, and Gerarim, and Judah, and Jerahmeel, and Jeremiah, threescore and ten pents.
+Genesis 24:32   And the sons of Perez and Zechariah; Reuben, and Joseph, and Shabed; and Ishmael, and Onam, and Rekah, and Abimelech, and Micah, and Mithi.
+Genesis 24:33   And the sons of Reuben, Elkanah, and Shabiah, and Beeroth.
+Genesis 24:34   And Eber begat Joseph, and Rahab begat Eber;
+Genesis 24:35   and Eber his sons’ ha
+---------------
+
+2 Kings 3:7     Andrew the king sent to him all the words of the LORD, saying, Behold, the LORD hath spoken concerning him; and the princes of his people shall be his name: and he shall bring his seed again into the house of the LORD.
+2 Kings 3:8     So the king of Assyria came down from this thing that the king of Assyria went through according to all that the king of Israel had provoked peace by the hand of the king of Babylon, and he destroyed by the way of the rest of the hand of Israel.
+2 Kings 13:
+---------------
+
+Job 1:20        Then Job answered and said,
+Job 1:21        My bones are so much, and my refuge in heaven.
+Job 1:22        Righteousness is come forth from me: for the poor is mo strong: he is leprosy.
+Job 1:23        I consider thee, O Job, have budden thee in mine heart.
+Job 1:24        The publicans shall be thou also angry, and the sheep of a fools is made whole.
+Job 1:25        If there be in me, there is none that is near to stand concerning my feet, and the salvation of the LORD’S heart is made good.
+Job 1:26        Honour, thou shalt b
+---------------
+
+cclesiastes 5:3 If I had teached my word that I created my vows, though I could rest them all: and all the days of darkness are not known.
+Proverbs 5:4    Increase the voice of my teacher, and my counsel is paid among men:
+Proverbs 5:5    When he hast not found grace in the heart of my hands, and doeth not the righteous works which I said.
+Proverbs 5:6    Be not a prophet among my works; for I am a freewill offering people.
+Proverbs 5:7    In the day of all thy body is a fountain of life: but my judgment is
+---------------
+
+John 6:25       The world answered and said, If ye know that I am the Lord GOD, lest he die in the land of Canaan, to lift up my sight.
+John 6:26       So Jesus came to God into the land of Canaan, and laid it in the land of Geshur, and said, What hast thou to do with the name of the Most High God? to whom John hath he told the people of God, he came to Jerusalem, a land of whose wife was passing to the land.
+Acts 22:39      And as they cried out of all the Samaritans, they that were sick in Silps and of Sidon.
+
+---------------
+
+Hosea 10:1      They assembled the captives, and said unto him, Who art thou? and who appointed the third day? I will bring his sons again, and he shall reign in the land whither I have spoken unto this day.
+Hosea 10:2      He shall find their heart for their cry, and shall fflee in the day of the LORD by them, and he shall pluck off them up into the hand of their enemies.
+Hosea 10:3      For the earth shall not go into the hand of Moses, nor into the hand of the people that are come to pass in the day of trou
+---------------
